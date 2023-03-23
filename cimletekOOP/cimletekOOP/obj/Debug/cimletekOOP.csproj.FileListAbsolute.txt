@@ -1,0 +1,8 @@
+C:\Users\losonczi.jozsef\source\repos\cimletekOOP\cimletekOOP\bin\Debug\cimletekOOP.exe.config
+C:\Users\losonczi.jozsef\source\repos\cimletekOOP\cimletekOOP\bin\Debug\cimletekOOP.exe
+C:\Users\losonczi.jozsef\source\repos\cimletekOOP\cimletekOOP\bin\Debug\cimletekOOP.pdb
+C:\Users\losonczi.jozsef\source\repos\cimletekOOP\cimletekOOP\obj\Debug\cimletekOOP.csproj.AssemblyReference.cache
+C:\Users\losonczi.jozsef\source\repos\cimletekOOP\cimletekOOP\obj\Debug\cimletekOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\losonczi.jozsef\source\repos\cimletekOOP\cimletekOOP\obj\Debug\cimletekOOP.csproj.CoreCompileInputs.cache
+C:\Users\losonczi.jozsef\source\repos\cimletekOOP\cimletekOOP\obj\Debug\cimletekOOP.exe
+C:\Users\losonczi.jozsef\source\repos\cimletekOOP\cimletekOOP\obj\Debug\cimletekOOP.pdb
