@@ -1,0 +1,8 @@
+C:\Users\losonczi.jozsef\source\repos\csempezesOOP(14.)\csempezesOOP(14.)\bin\Debug\csempezesOOP(14.).exe.config
+C:\Users\losonczi.jozsef\source\repos\csempezesOOP(14.)\csempezesOOP(14.)\bin\Debug\csempezesOOP(14.).exe
+C:\Users\losonczi.jozsef\source\repos\csempezesOOP(14.)\csempezesOOP(14.)\bin\Debug\csempezesOOP(14.).pdb
+C:\Users\losonczi.jozsef\source\repos\csempezesOOP(14.)\csempezesOOP(14.)\obj\Debug\csempezesOOP(14.).csproj.AssemblyReference.cache
+C:\Users\losonczi.jozsef\source\repos\csempezesOOP(14.)\csempezesOOP(14.)\obj\Debug\csempezesOOP(14.).csproj.SuggestedBindingRedirects.cache
+C:\Users\losonczi.jozsef\source\repos\csempezesOOP(14.)\csempezesOOP(14.)\obj\Debug\csempezesOOP(14.).csproj.CoreCompileInputs.cache
+C:\Users\losonczi.jozsef\source\repos\csempezesOOP(14.)\csempezesOOP(14.)\obj\Debug\csempezesOOP(14.).exe
+C:\Users\losonczi.jozsef\source\repos\csempezesOOP(14.)\csempezesOOP(14.)\obj\Debug\csempezesOOP(14.).pdb
