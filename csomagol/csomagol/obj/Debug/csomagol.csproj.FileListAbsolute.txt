@@ -1,0 +1,8 @@
+C:\Users\losonczi.jozsef\source\repos\csomagol\csomagol\bin\Debug\csomagol.exe.config
+C:\Users\losonczi.jozsef\source\repos\csomagol\csomagol\bin\Debug\csomagol.exe
+C:\Users\losonczi.jozsef\source\repos\csomagol\csomagol\bin\Debug\csomagol.pdb
+C:\Users\losonczi.jozsef\source\repos\csomagol\csomagol\obj\Debug\csomagol.csproj.AssemblyReference.cache
+C:\Users\losonczi.jozsef\source\repos\csomagol\csomagol\obj\Debug\csomagol.csproj.SuggestedBindingRedirects.cache
+C:\Users\losonczi.jozsef\source\repos\csomagol\csomagol\obj\Debug\csomagol.csproj.CoreCompileInputs.cache
+C:\Users\losonczi.jozsef\source\repos\csomagol\csomagol\obj\Debug\csomagol.exe
+C:\Users\losonczi.jozsef\source\repos\csomagol\csomagol\obj\Debug\csomagol.pdb
