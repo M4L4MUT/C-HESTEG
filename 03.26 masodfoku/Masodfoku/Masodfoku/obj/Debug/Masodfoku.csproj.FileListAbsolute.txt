@@ -1,0 +1,8 @@
+E:\c#\03.26 masodfoku\Masodfoku\Masodfoku\obj\Debug\Masodfoku.csproj.AssemblyReference.cache
+E:\c#\03.26 masodfoku\Masodfoku\Masodfoku\obj\Debug\Masodfoku.csproj.SuggestedBindingRedirects.cache
+E:\c#\03.26 masodfoku\Masodfoku\Masodfoku\obj\Debug\Masodfoku.csproj.CoreCompileInputs.cache
+E:\c#\03.26 masodfoku\Masodfoku\Masodfoku\bin\Debug\Masodfoku.exe.config
+E:\c#\03.26 masodfoku\Masodfoku\Masodfoku\bin\Debug\Masodfoku.exe
+E:\c#\03.26 masodfoku\Masodfoku\Masodfoku\bin\Debug\Masodfoku.pdb
+E:\c#\03.26 masodfoku\Masodfoku\Masodfoku\obj\Debug\Masodfoku.exe
+E:\c#\03.26 masodfoku\Masodfoku\Masodfoku\obj\Debug\Masodfoku.pdb

@@ -1,0 +1,8 @@
+C:\Users\loson\source\repos\OraPercMp\OraPercMp\bin\Debug\OraPercMp.exe.config
+C:\Users\loson\source\repos\OraPercMp\OraPercMp\bin\Debug\OraPercMp.exe
+C:\Users\loson\source\repos\OraPercMp\OraPercMp\bin\Debug\OraPercMp.pdb
+C:\Users\loson\source\repos\OraPercMp\OraPercMp\obj\Debug\OraPercMp.csproj.AssemblyReference.cache
+C:\Users\loson\source\repos\OraPercMp\OraPercMp\obj\Debug\OraPercMp.csproj.SuggestedBindingRedirects.cache
+C:\Users\loson\source\repos\OraPercMp\OraPercMp\obj\Debug\OraPercMp.csproj.CoreCompileInputs.cache
+C:\Users\loson\source\repos\OraPercMp\OraPercMp\obj\Debug\OraPercMp.exe
+C:\Users\loson\source\repos\OraPercMp\OraPercMp\obj\Debug\OraPercMp.pdb
